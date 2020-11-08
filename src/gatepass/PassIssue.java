@@ -147,12 +147,12 @@ public class PassIssue extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Sitka Heading", 3, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(0, 0, 204));
         jLabel2.setText("Gate Pass ID");
-        jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 50, -1, -1));
+        jPanel3.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 50, -1, -1));
 
         jLabel3.setFont(new java.awt.Font("Sitka Heading", 3, 24)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(204, 0, 0));
-        jLabel3.setText("codeguid.com");
-        jPanel3.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 20, 184, -1));
+        jLabel3.setText("Society");
+        jPanel3.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 20, 184, -1));
 
         jLabel6.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel6.setText("NIC Number :");
@@ -219,9 +219,6 @@ public class PassIssue extends javax.swing.JFrame {
         jLabel25.setText("....................................");
         jPanel3.add(jLabel25, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 260, 110, -1));
 
-        jLabel22.setBackground(new java.awt.Color(0, 0, 0));
-        jLabel22.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/hlogo.png"))); // NOI18N
-        jLabel22.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
         jPanel3.add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 50, 60));
 
         jPanel7.setBackground(new java.awt.Color(0, 0, 153));
