@@ -9,10 +9,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Ruwan
- */
 public class DBConnect {
     
     public static Connection connect()
